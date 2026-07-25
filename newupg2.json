@@ -8568,5 +8568,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero052-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164404",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero055-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164407",
     "sort": "2"
+  },
+  "Nana-o7dlzmmzzx": {
+    "key": "Nana-o7dlzmmzzx",
+    "hero": "Nana",
+    "skin_name": "Season",
+    "skin_name2": "Mpl",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/nana%20season%20to%20mpl.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero053-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164405",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero055-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164407",
+    "sort": "3"
   }
 }
