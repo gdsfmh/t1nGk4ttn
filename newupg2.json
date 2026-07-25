@@ -8558,5 +8558,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero694-portrait.png/revision/latest/scale-to-width-down/150?cb=20250117142005",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero696-portrait.png/revision/latest?cb=20260604050626",
     "sort": "4"
+  },
+  "Nana-dfn1twa3bl": {
+    "key": "Nana-dfn1twa3bl",
+    "hero": "Nana",
+    "skin_name": "Elite",
+    "skin_name2": "Mpl",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/nana%20elite%20to%20mpl.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero052-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164404",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero055-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164407",
+    "sort": "2"
   }
 }
