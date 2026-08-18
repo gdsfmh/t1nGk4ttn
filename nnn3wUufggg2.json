@@ -8618,5 +8618,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero626-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165554",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero623-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165551",
     "sort": "6"
+  },
+  "Kaja-fg4fv7enis": {
+    "key": "Kaja-fg4fv7enis",
+    "hero": "Kaja",
+    "skin_name": "Elite",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/kaja%20elite%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero624-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165552",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero627-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045317",
+    "sort": "4"
   }
 }
