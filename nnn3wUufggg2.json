@@ -8588,5 +8588,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero054-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164406",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero055-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164407",
     "sort": "4"
+  },
+  "Kaja-f2zi40wmgi": {
+    "key": "Kaja-f2zi40wmgi",
+    "hero": "Kaja",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/kaja%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero622-portrait.png/revision/latest/scale-to-width-down/150?cb=20260807042541",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero623-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165551",
+    "sort": "2"
   }
 }
