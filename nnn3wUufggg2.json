@@ -8608,5 +8608,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero624-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165552",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero623-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165551",
     "sort": "4"
+  },
+  "Kaja-8cwqwxbh33": {
+    "key": "Kaja-8cwqwxbh33",
+    "hero": "Kaja",
+    "skin_name": "Season",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/kaja%20season%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero626-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165554",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero623-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165551",
+    "sort": "6"
   }
 }
