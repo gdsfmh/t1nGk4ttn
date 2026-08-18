@@ -8598,5 +8598,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero622-portrait.png/revision/latest/scale-to-width-down/150?cb=20260807042541",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero623-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165551",
     "sort": "2"
+  },
+  "Kaja-08n8vwp3k2": {
+    "key": "Kaja-08n8vwp3k2",
+    "hero": "Kaja",
+    "skin_name": "Elite",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/kaja%20elite%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero624-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165552",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero623-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165551",
+    "sort": "4"
   }
 }
