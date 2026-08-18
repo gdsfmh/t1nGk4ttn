@@ -8658,5 +8658,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero623-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165551",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero627-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045317",
     "sort": "3"
+  },
+  "Kaja-f9ndiwpi5y": {
+    "key": "Kaja-f9ndiwpi5y",
+    "hero": "Kaja",
+    "skin_name": "Epic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/kaja%20epic%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero627-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045317",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero625-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142825",
+    "sort": "7"
   }
 }
