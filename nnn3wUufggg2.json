@@ -8668,5 +8668,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero627-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045317",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero625-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142825",
     "sort": "7"
+  },
+  "Yu-Zhong-zvrou3j5x1": {
+    "key": "Yu-Zhong-zvrou3j5x1",
+    "hero": "Yu Zhong",
+    "skin_name": "All Star",
+    "skin_name2": "Prime",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/yu%20zhong%20all%20star%20to%20prime.zip",
+    "img": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/refs/heads/main/yu%20zhong%20all%20star.png",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero958-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114145030",
+    "sort": "8"
   }
 }
