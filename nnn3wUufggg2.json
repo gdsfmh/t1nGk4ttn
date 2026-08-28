@@ -8718,5 +8718,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165604",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/selena%20aspirants.png",
     "sort": "3"
+  },
+  "Selena-w4d7tid2en": {
+    "key": "Selena-w4d7tid2en",
+    "hero": "Selena",
+    "skin_name": "Luckybox",
+    "skin_name2": "Aspirants",
+    "download": "https://github.com/z3ld4-upl0d/upl0d2/releases/download/assets/selena.luckybox.to.aspitants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165607",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/selena%20aspirants.png",
+    "sort": "6"
   }
 }
