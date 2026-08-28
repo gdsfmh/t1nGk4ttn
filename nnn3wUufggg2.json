@@ -8698,5 +8698,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Hero632-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165603",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/selena%20aspirants.png",
     "sort": "2"
+  },
+  "Selena-1d41tae3h6": {
+    "key": "Selena-1d41tae3h6",
+    "hero": "Selena",
+    "skin_name": "Elite",
+    "skin_name2": "Aspirants",
+    "download": "https://github.com/z3ld4-upl0d/upl0d2/releases/download/assets/selena.elite.s.to.aspitants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero637-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165608",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/selena%20aspirants.png",
+    "sort": "7"
   }
 }
