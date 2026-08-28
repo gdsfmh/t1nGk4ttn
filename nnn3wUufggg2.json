@@ -8678,5 +8678,15 @@
     "img": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/refs/heads/main/yu%20zhong%20all%20star.png",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero958-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114145030",
     "sort": "8"
+  },
+  "Selena-lf8la18jj8": {
+    "key": "Selena-lf8la18jj8",
+    "hero": "Selena",
+    "skin_name": "Abyss",
+    "skin_name2": "Aspirants",
+    "download": "https://github.com/z3ld4-upl0d/upl0d2/releases/download/assets/selena.abyss.to.aspitants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165610",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/selena%20aspirants.png",
+    "sort": "9"
   }
 }
