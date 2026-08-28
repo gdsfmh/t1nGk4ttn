@@ -8688,5 +8688,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165610",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/selena%20aspirants.png",
     "sort": "9"
+  },
+  "Selena-94474pd01h": {
+    "key": "Selena-94474pd01h",
+    "hero": "Selena",
+    "skin_name": "Basic",
+    "skin_name2": "Aspirants",
+    "download": "https://github.com/z3ld4-upl0d/upl0d2/releases/download/assets/selena.basic.to.aspitants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Hero632-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165603",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/selena%20aspirants.png",
+    "sort": "2"
   }
 }
