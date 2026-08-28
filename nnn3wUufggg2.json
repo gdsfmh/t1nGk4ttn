@@ -8728,5 +8728,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165607",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/selena%20aspirants.png",
     "sort": "6"
+  },
+  "Selena-sorpf0l7vj": {
+    "key": "Selena-sorpf0l7vj",
+    "hero": "Selena",
+    "skin_name": "Star",
+    "skin_name2": "Aspirants",
+    "download": "https://github.com/z3ld4-upl0d/upl0d2/releases/download/assets/selena.star.to.aspitants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165606",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/selena%20aspirants.png",
+    "sort": "5"
   }
 }
