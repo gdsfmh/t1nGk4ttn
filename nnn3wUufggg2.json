@@ -8898,5 +8898,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero101611-portrait.png/revision/latest/scale-to-width-down/150?cb=20220602112731",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/zilong%20create.jpg",
     "sort": "11"
+  },
+  "Zilong-cx8qc0jwi9": {
+    "key": "Zilong-cx8qc0jwi9",
+    "hero": "Zilong",
+    "skin_name": "Basic",
+    "skin_name2": "Create",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/zilong%20basic%20s%20to%20create.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero168-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164652",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/zilong%20create.jpg",
+    "sort": "8"
   }
 }
