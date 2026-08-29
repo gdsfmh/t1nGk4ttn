@@ -8918,5 +8918,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Hero169-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604051006",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/zilong%20create.jpg",
     "sort": "9"
+  },
+  "Zilong-ui08bck2ix": {
+    "key": "Zilong-ui08bck2ix",
+    "hero": "Zilong",
+    "skin_name": "Lunar Fest",
+    "skin_name2": "Create",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/zilong%20lunar%20fest%20to%20create.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero101612-portrait.png/revision/latest/scale-to-width-down/150?cb=20240130065432",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/zilong%20create.jpg",
+    "sort": "12"
   }
 }
