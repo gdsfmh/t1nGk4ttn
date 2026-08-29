@@ -8848,5 +8848,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero213-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164752",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/hayabusa%20star2.png",
     "sort": "3"
+  },
+  "Hayabusa-z2idts184x": {
+    "key": "Hayabusa-z2idts184x",
+    "hero": "Hayabusa",
+    "skin_name": "Star",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/hayabusa%20star%20to%20star2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero217-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164756",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/hayabusa%20star2.png",
+    "sort": "7"
   }
 }
