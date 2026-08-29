@@ -8838,5 +8838,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero219-portrait.png/revision/latest/scale-to-width-down/150?cb=20221118130654",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/hayabusa%20star2.png",
     "sort": "9"
+  },
+  "Hayabusa-lzgpimjof": {
+    "key": "Hayabusa-lzgpimjof",
+    "hero": "Hayabusa",
+    "skin_name": "Elite",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/hayabusa%20elite%20to%20star2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero213-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164752",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/hayabusa%20star2.png",
+    "sort": "3"
   }
 }
