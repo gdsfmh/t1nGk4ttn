@@ -8768,5 +8768,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163409",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/selena%20aspirants.png",
     "sort": "4"
+  },
+  "Obsidia-nz5p1e6ws1": {
+    "key": "Obsidia-nz5p1e6ws1",
+    "hero": "Obsidia",
+    "skin_name": "Basic",
+    "skin_name2": "Aspirants",
+    "download": "https://github.com/z3ld4-upl0d/upl0d2/releases/download/assets/obsidia.basic.to.aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero1302-portrait.png/revision/latest/scale-to-width-down/150?cb=20250629033055",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/obsidia%20aspirants.png",
+    "sort": "2"
   }
 }
