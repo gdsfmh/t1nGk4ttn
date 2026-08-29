@@ -8878,5 +8878,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Hero167-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164650",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/zilong%20create.jpg",
     "sort": "7"
+  },
+  "Zilong-oqfldjcm9h": {
+    "key": "Zilong-oqfldjcm9h",
+    "hero": "Zilong",
+    "skin_name": "Collector",
+    "skin_name2": "Create",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/zilong%20collector%20to%20create.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero101610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220602112648",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/zilong%20create.jpg",
+    "sort": "10"
   }
 }
