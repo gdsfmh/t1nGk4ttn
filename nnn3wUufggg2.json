@@ -9058,5 +9058,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero143-portrait.png/revision/latest/scale-to-width-down/150?cb=20260807054854",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/rafaela%20x%20soul%20vessel.png",
     "sort": "3"
+  },
+  "Rafaela-97j0c3n3de": {
+    "key": "Rafaela-97j0c3n3de",
+    "hero": "Rafaela",
+    "skin_name": "Elite",
+    "skin_name2": "Christmas",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/rafaela%20elite%20to%20christmas.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero142-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164612",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero147-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164620",
+    "sort": "2"
   }
 }
