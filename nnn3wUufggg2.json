@@ -9038,5 +9038,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero142-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164612",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/rafaela%20x%20all%20star.png",
     "sort": "2"
+  },
+  "Rafaela-wuaikvdozj": {
+    "key": "Rafaela-wuaikvdozj",
+    "hero": "Rafaela",
+    "skin_name": "Season",
+    "skin_name2": "All Star",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/rafaela%20season%20x%20all%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero146-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164619",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/rafaela%20x%20all%20star.png",
+    "sort": "6"
   }
 }
