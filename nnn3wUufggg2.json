@@ -9068,5 +9068,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero142-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164612",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero147-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164620",
     "sort": "2"
+  },
+  "Claude-hseufnzmfg": {
+    "key": "Claude-hseufnzmfg",
+    "hero": "Claude",
+    "skin_name": "Basic",
+    "skin_name2": "Christmas",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/claude%20basic%20to%20christmas.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero652-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165635",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero656-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165639",
+    "sort": "2"
   }
 }
