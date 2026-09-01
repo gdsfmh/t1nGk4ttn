@@ -9048,5 +9048,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero146-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164619",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/rafaela%20x%20all%20star.png",
     "sort": "6"
+  },
+  "Rafaela-qgspdehkyj": {
+    "key": "Rafaela-qgspdehkyj",
+    "hero": "Rafaela",
+    "skin_name": "Epic",
+    "skin_name2": "Soul Vessel",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/rafeala%20epic%20x%20soul%20vessel.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero143-portrait.png/revision/latest/scale-to-width-down/150?cb=20260807054854",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/rafaela%20x%20soul%20vessel.png",
+    "sort": "3"
   }
 }
