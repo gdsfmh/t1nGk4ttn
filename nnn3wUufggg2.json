@@ -9078,5 +9078,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero652-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165635",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero656-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165639",
     "sort": "2"
+  },
+  "Angela-yjfhjepxrg": {
+    "key": "Angela-yjfhjepxrg",
+    "hero": "Angela",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/angela%20special%20to%20collector.zip",
+    "img": "https://raw.githubusercontent.com/ddsuphhj/D3f4ultSk1n/main/angela%20special.png",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero557-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165436",
+    "sort": "12"
   }
 }
