@@ -9158,5 +9158,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero153-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164632",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero159-portrait.png/revision/latest?cb=20250128052528",
     "sort": "3"
+  },
+  "Eudora-u1euoa4fh1": {
+    "key": "Eudora-u1euoa4fh1",
+    "hero": "Eudora",
+    "skin_name": "Season",
+    "skin_name2": "Dragon",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/eudora%20season%20to%20dragon.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero156-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164635",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero159-portrait.png/revision/latest?cb=20250128052528",
+    "sort": "6"
   }
 }
