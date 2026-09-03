@@ -9138,5 +9138,15 @@
     "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/martis%20elite.jpg",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero587-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129101655",
     "sort": "9"
+  },
+  "Martis-lsf3r5plb3": {
+    "key": "Martis-lsf3r5plb3",
+    "hero": "Martis",
+    "skin_name": "Elite",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/martis%20elite%20to%20zodiac.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/martis%20elite.jpg",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero585-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114125523",
+    "sort": "9"
   }
 }
