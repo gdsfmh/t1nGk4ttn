@@ -9148,5 +9148,15 @@
     "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/martis%20elite.jpg",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero585-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114125523",
     "sort": "9"
+  },
+  "Eudora-b5aanrn9b5": {
+    "key": "Eudora-b5aanrn9b5",
+    "hero": "Eudora",
+    "skin_name": "Christmas",
+    "skin_name2": "Dragon",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/eudora%20christmas%20to%20dragon.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero153-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164632",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero159-portrait.png/revision/latest?cb=20250128052528",
+    "sort": "3"
   }
 }
