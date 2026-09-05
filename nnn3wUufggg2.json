@@ -9208,5 +9208,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero072-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164436",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfb_nxj8EJFgC17GAOcfTjDa400U1UerPGg&usqp=CAU",
     "sort": "2"
+  },
+  "Alucard-5k9nkv31e7": {
+    "key": "Alucard-5k9nkv31e7",
+    "hero": "Alucard",
+    "skin_name": "Basic",
+    "skin_name2": "Rengoku",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/alucard%20basic%20x%20rengoku.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero072-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164436",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/alucard%20x%20rengoku.png",
+    "sort": "2"
   }
 }
