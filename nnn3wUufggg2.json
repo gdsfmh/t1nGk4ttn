@@ -9198,5 +9198,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1203-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114160254",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR59KpYJDLYYupO6M8G70CoyMDyVunn7pY6yjBPtAo806pgSZxyvoj5b0l2&s=10",
     "sort": "3"
+  },
+  "Alucard-wot0t581ed": {
+    "key": "Alucard-wot0t581ed",
+    "hero": "Alucard",
+    "skin_name": "Basic",
+    "skin_name2": "Tanjiro",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/alucard%20basic%20x%20tanjiro.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero072-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164436",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfb_nxj8EJFgC17GAOcfTjDa400U1UerPGg&usqp=CAU",
+    "sort": "2"
   }
 }
