@@ -9188,5 +9188,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero1202-portrait.png/revision/latest/scale-to-width-down/150?cb=20230208125754",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR59KpYJDLYYupO6M8G70CoyMDyVunn7pY6yjBPtAo806pgSZxyvoj5b0l2&s=10",
     "sort": "2"
+  },
+  "Arlott-eye4bhhm5d": {
+    "key": "Arlott-eye4bhhm5d",
+    "hero": "Arlott",
+    "skin_name": "Star",
+    "skin_name2": "Kakashi",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/arlott%20star%20x%20kakashi.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1203-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114160254",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR59KpYJDLYYupO6M8G70CoyMDyVunn7pY6yjBPtAo806pgSZxyvoj5b0l2&s=10",
+    "sort": "3"
   }
 }
