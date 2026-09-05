@@ -9168,5 +9168,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero156-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164635",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero159-portrait.png/revision/latest?cb=20250128052528",
     "sort": "6"
+  },
+  "Arlott-gbk67olc09": {
+    "key": "Arlott-gbk67olc09",
+    "hero": "Arlott",
+    "skin_name": "Basic",
+    "skin_name2": "Obanai",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/arlott%20basic%20x%20obanai.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero1202-portrait.png/revision/latest/scale-to-width-down/150?cb=20230208125754",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/arlott%20x%20iguro%20obanai.png",
+    "sort": "2"
   }
 }
