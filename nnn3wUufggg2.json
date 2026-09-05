@@ -9178,5 +9178,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero1202-portrait.png/revision/latest/scale-to-width-down/150?cb=20230208125754",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/arlott%20x%20iguro%20obanai.png",
     "sort": "2"
+  },
+  "Arlott-7cmblqgwqt": {
+    "key": "Arlott-7cmblqgwqt",
+    "hero": "Arlott",
+    "skin_name": "Basic",
+    "skin_name2": "Kakashi",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/arlott%20basic%20x%20kakashi.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero1202-portrait.png/revision/latest/scale-to-width-down/150?cb=20230208125754",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR59KpYJDLYYupO6M8G70CoyMDyVunn7pY6yjBPtAo806pgSZxyvoj5b0l2&s=10",
+    "sort": "2"
   }
 }
