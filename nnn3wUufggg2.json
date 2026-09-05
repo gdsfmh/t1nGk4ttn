@@ -9238,5 +9238,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero572-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165457",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/valir%20basic%20x%20douma.zip",
     "sort": "2"
+  },
+  "Cici-yb1hssmosj": {
+    "key": "Cici-yb1hssmosj",
+    "hero": "Cici",
+    "skin_name": "Basic",
+    "skin_name2": "Mitsuri Kanroji",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/cici%20basic%20x%20mitsuri%20kanroji.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero1232-portrait.png/revision/latest/scale-to-width-down/150?cb=20231227083250",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/cici%20x%20mitsuri%20kanroji.jpg",
+    "sort": "2"
   }
 }
