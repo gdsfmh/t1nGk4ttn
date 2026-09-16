@@ -9288,5 +9288,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero412-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165155",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFgRa41_2t1K9_7Ni_qXJzDbEjTdmZs2wlJd5g27rSWCZZGw9XIWcjVesU&s=10",
     "sort": "2"
+  },
+  "Argus-i1fmqs5pl2": {
+    "key": "Argus-i1fmqs5pl2",
+    "hero": "Argus",
+    "skin_name": "Basic",
+    "skin_name2": "Asta",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/argus%20basic%20x%20asta.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero452-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165229",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/argus%20x%20asta.jpg",
+    "sort": "2"
   }
 }
