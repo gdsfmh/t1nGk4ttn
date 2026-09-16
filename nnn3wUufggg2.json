@@ -9298,5 +9298,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero452-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165229",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/argus%20x%20asta.jpg",
     "sort": "2"
+  },
+  "Lancelot-jlu86xqjxd": {
+    "key": "Lancelot-jlu86xqjxd",
+    "hero": "Lancelot",
+    "skin_name": "Basic",
+    "skin_name2": "Soul Vessel",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/lancelot%20basic%20x%20soul%20vessel.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero472-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165245",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/lancelot%20x%20soul%20vessel.jpg",
+    "sort": "2"
   }
 }
