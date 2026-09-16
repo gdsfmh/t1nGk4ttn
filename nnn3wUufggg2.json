@@ -9318,5 +9318,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero472-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165245",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXEjeZs1rxAKZEV0igs84DA_ivfevKBecO8BFJTKgrctyet5-hXldzfeM&s=10",
     "sort": "2"
+  },
+  "Lukas-bcmrv364ej": {
+    "key": "Lukas-bcmrv364ej",
+    "hero": "Lukas",
+    "skin_name": "Basic",
+    "skin_name2": "Minato",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/lukas%20basic%20x%20minato.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero1272-portrait.png/revision/latest/scale-to-width-down/150?cb=20240922103748",
+    "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/refs/heads/main/gusion%20minato.jpg",
+    "sort": "2"
   }
 }
