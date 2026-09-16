@@ -9308,5 +9308,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero472-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165245",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/lancelot%20x%20soul%20vessel.jpg",
     "sort": "2"
+  },
+  "Lancelot-mkhrtavx89": {
+    "key": "Lancelot-mkhrtavx89",
+    "hero": "Lancelot",
+    "skin_name": "Basic",
+    "skin_name2": "Minato",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/lancelot%20basic%20x%20minato.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero472-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165245",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXEjeZs1rxAKZEV0igs84DA_ivfevKBecO8BFJTKgrctyet5-hXldzfeM&s=10",
+    "sort": "2"
   }
 }
