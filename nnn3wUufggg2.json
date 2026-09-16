@@ -9278,5 +9278,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero812-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165933",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReoZbzZysCLLMka5k46ZRRtra063T2wjTXFB6IEqgxBGCyiSjVsp7pS5s&s=10",
     "sort": "2"
+  },
+  "Gatotkaca-iak16o97op": {
+    "key": "Gatotkaca-iak16o97op",
+    "hero": "Gatotkaca",
+    "skin_name": "Basic",
+    "skin_name2": "Gatotkaca",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/gatotkaca%20basic%20x%20jiraiya.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero412-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165155",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFgRa41_2t1K9_7Ni_qXJzDbEjTdmZs2wlJd5g27rSWCZZGw9XIWcjVesU&s=10",
+    "sort": "2"
   }
 }
