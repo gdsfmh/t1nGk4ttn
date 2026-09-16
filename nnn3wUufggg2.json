@@ -9328,5 +9328,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero1272-portrait.png/revision/latest/scale-to-width-down/150?cb=20240922103748",
     "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/refs/heads/main/gusion%20minato.jpg",
     "sort": "2"
+  },
+  "Nana-lsn2nxa8lb": {
+    "key": "Nana-lsn2nxa8lb",
+    "hero": "Nana",
+    "skin_name": "Elite",
+    "skin_name2": "Aspirants",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/nana%20basic%20to%20vexana%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero052-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164404",
+    "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/refs/heads/main/vexana%20aspirants.jpg",
+    "sort": "2"
   }
 }
