@@ -9268,5 +9268,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero262-portrait.png/revision/latest/scale-to-width-down/150?cb=20220719071254",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero1273-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101452",
     "sort": "2"
+  },
+  "Esmeralda-kgkemj14nv": {
+    "key": "Esmeralda-kgkemj14nv",
+    "hero": "Esmeralda",
+    "skin_name": "Basic",
+    "skin_name2": "Tsunade",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/esmeralda%20basic%20x%20tsunade.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero812-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165933",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReoZbzZysCLLMka5k46ZRRtra063T2wjTXFB6IEqgxBGCyiSjVsp7pS5s&s=10",
+    "sort": "2"
   }
 }
