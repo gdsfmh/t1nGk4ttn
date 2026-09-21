@@ -14028,5 +14028,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero302-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164949",
     "img2": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/ltfk6962zup1000257496.jpg",
     "sort": "2"
+  },
+  "Bruno-1xpisxw3hp": {
+    "key": "Bruno-1xpisxw3hp",
+    "hero": "Bruno",
+    "skin_name": "Dawning",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/bruno%20dawning%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164552",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
+    "sort": "6"
   }
 }
