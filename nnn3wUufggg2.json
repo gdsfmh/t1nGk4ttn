@@ -9478,5 +9478,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero883-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170110",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero887-portrait.png/revision/latest/scale-to-width-down/150?cb=20240430024127",
     "sort": "3"
+  },
+  "Masha-svu21obktv": {
+    "key": "Masha-svu21obktv",
+    "hero": "Masha",
+    "skin_name": "Basic",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/masha%20basic%20to%20kof.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/masha%20basic.jpg",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero887-portrait.png/revision/latest/scale-to-width-down/150?cb=20240430024127",
+    "sort": "2"
   }
 }
