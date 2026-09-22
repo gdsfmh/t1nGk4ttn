@@ -9148,5 +9148,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero1032-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170358",
     "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/paquito%20sf.png",
     "sort": "2"
+  },
+  "Paquito-tzzqafe2yq": {
+    "key": "Paquito-tzzqafe2yq",
+    "hero": "Paquito",
+    "skin_name": "Collector",
+    "skin_name2": "Ryu",
+    "download": "https://github.com/z3ld4-upl0d/upl0d2/releases/download/assets/paquito.collector.to.sf.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163428",
+    "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/paquito%20sf.png",
+    "sort": "7"
   }
 }
