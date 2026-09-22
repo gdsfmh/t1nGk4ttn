@@ -9488,5 +9488,15 @@
     "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/masha%20basic.jpg",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero887-portrait.png/revision/latest/scale-to-width-down/150?cb=20240430024127",
     "sort": "2"
+  },
+  "Clint-fgjgbxqvxa": {
+    "key": "Clint-fgjgbxqvxa",
+    "hero": "Clint",
+    "skin_name": "Epic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/clint%20epic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero101310-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144300",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
+    "sort": "10"
   }
 }
