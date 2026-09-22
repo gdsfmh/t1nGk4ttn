@@ -14128,5 +14128,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero1007-portrait.png/revision/latest/scale-to-width-down/150?cb=20240920010119",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1005-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170323",
     "sort": "7"
+  },
+  "Brody-kf7hk3qim2": {
+    "key": "Brody-kf7hk3qim2",
+    "hero": "Brody",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/brody%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero1004-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170321",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1005-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170323",
+    "sort": "4"
   }
 }
