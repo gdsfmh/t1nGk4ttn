@@ -9508,5 +9508,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero137-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603013029",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
     "sort": "7"
+  },
+  "Clint-j5bnrjs8f9": {
+    "key": "Clint-j5bnrjs8f9",
+    "hero": "Clint",
+    "skin_name": "Mythic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/clint%20mythic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero101312-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073228",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
+    "sort": "11"
   }
 }
