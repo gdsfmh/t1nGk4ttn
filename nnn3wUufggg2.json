@@ -9138,5 +9138,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero052-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164404",
     "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/refs/heads/main/vexana%20aspirants.jpg",
     "sort": "2"
+  },
+  "Paquito-e7ejcj6qo6": {
+    "key": "Paquito-e7ejcj6qo6",
+    "hero": "Paquito",
+    "skin_name": "Basic",
+    "skin_name2": "Ryu",
+    "download": "https://github.com/z3ld4-upl0d/upl0d2/releases/download/assets/paquito.basic.to.sf.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero1032-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170358",
+    "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/paquito%20sf.png",
+    "sort": "2"
   }
 }
