@@ -9358,5 +9358,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero1033-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170358",
     "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/paquito%20sf2.png",
     "sort": "3"
+  },
+  "Paquito-m2zezgk382": {
+    "key": "Paquito-m2zezgk382",
+    "hero": "Paquito",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/paquito%20special%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1034-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170359",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163428",
+    "sort": "4"
   }
 }
