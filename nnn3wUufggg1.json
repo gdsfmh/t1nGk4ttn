@@ -14078,5 +14078,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero122-portrait.png/revision/latest/scale-to-width-down/150?cb=20260917014302",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
     "sort": "2"
+  },
+  "Bruno-5ms97n3cpc": {
+    "key": "Bruno-5ms97n3cpc",
+    "hero": "Bruno",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/bruno%20special%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero123-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604044855",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
+    "sort": "3"
   }
 }
