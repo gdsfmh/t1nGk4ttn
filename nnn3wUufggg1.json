@@ -14058,5 +14058,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero128-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134233",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
     "sort": "6"
+  },
+  "Bruno-m79pmq3jp9": {
+    "key": "Bruno-m79pmq3jp9",
+    "hero": "Bruno",
+    "skin_name": "Neymar Jr",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/bruno%20neymar%20jr%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero129-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134235",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
+    "sort": "7"
   }
 }
