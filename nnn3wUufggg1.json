@@ -14178,5 +14178,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Hero1002-portrait.png/revision/latest/scale-to-width-down/150?cb=20260917003346",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1003-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170320",
     "sort": "2"
+  },
+  "Brody-opmq7q90f9": {
+    "key": "Brody-opmq7q90f9",
+    "hero": "Brody",
+    "skin_name": "Mpl",
+    "skin_name2": "Stun",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/brody%20mpl%20to%20stun.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero1006-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035442",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1003-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170320",
+    "sort": "6"
   }
 }
