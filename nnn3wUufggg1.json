@@ -14048,5 +14048,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero124-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164550",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
     "sort": "4"
+  },
+  "Bruno-wpn7ordwf3": {
+    "key": "Bruno-wpn7ordwf3",
+    "hero": "Bruno",
+    "skin_name": "Hallo Striker",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/bruno%20halo%20striker%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero128-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134233",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
+    "sort": "6"
   }
 }
