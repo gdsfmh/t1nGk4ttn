@@ -9348,5 +9348,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero1033-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170358",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1038-portrait.png/revision/latest/scale-to-width-down/150?cb=20240430024904",
     "sort": "3"
+  },
+  "Paquito-nkelpgbvlb": {
+    "key": "Paquito-nkelpgbvlb",
+    "hero": "Paquito",
+    "skin_name": "Pacquiao",
+    "skin_name2": "Ryu",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/paquito%20pacquiao%20to%20sf2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero1033-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170358",
+    "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/paquito%20sf2.png",
+    "sort": "3"
   }
 }
