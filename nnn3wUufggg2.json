@@ -9538,5 +9538,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero135-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164559",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
     "sort": "5"
+  },
+  "Clint-jxcauo2w6w": {
+    "key": "Clint-jxcauo2w6w",
+    "hero": "Clint",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/clint%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero134-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164558",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
+    "sort": "4"
   }
 }
