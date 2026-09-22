@@ -14098,5 +14098,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero125-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164551",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
     "sort": "5"
+  },
+  "Bruno-m5jm4cj6co": {
+    "key": "Bruno-m5jm4cj6co",
+    "hero": "Bruno",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/bruno%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero127-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114091333",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
+    "sort": "7"
   }
 }
