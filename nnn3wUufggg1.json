@@ -14198,5 +14198,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero1007-portrait.png/revision/latest/scale-to-width-down/150?cb=20240920010119",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1003-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170320",
     "sort": "7"
+  },
+  "Brody-znaeqvh4um": {
+    "key": "Brody-znaeqvh4um",
+    "hero": "Brody",
+    "skin_name": "Neobeast",
+    "skin_name2": "Stun",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/brody%20neobeast%20to%20stun.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1008-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125011",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1003-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170320",
+    "sort": "8"
   }
 }
