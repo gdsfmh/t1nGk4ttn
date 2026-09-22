@@ -9278,5 +9278,15 @@
     "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/paquito%20epic.png",
     "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/paquito%20sf2.png",
     "sort": "10"
+  },
+  "Paquito-eospsrrb17": {
+    "key": "Paquito-eospsrrb17",
+    "hero": "Paquito",
+    "skin_name": "Fmvp",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/paquito%20fmvp%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero1039-portrait.png/revision/latest/scale-to-width-down/150?cb=20240920010138",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163428",
+    "sort": "9"
   }
 }
