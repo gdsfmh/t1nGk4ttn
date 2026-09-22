@@ -9268,5 +9268,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163428",
     "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/paquito%20sf2.png",
     "sort": "7"
+  },
+  "Paquito-k37xjj1gg0": {
+    "key": "Paquito-k37xjj1gg0",
+    "hero": "Paquito",
+    "skin_name": "Epic",
+    "skin_name2": "Ryu",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/paquito%20epic%20to%20sf2.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/paquito%20epic.png",
+    "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/paquito%20sf2.png",
+    "sort": "10"
   }
 }
