@@ -9568,5 +9568,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero132-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604050832",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
     "sort": "2"
+  },
+  "Clint-cmz34yv60s": {
+    "key": "Clint-cmz34yv60s",
+    "hero": "Clint",
+    "skin_name": "Soul Vessel",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/clint%20soul%20vessel%20to%20collector.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/clint%20soul%20vessel.jpg",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
+    "sort": "13"
   }
 }
