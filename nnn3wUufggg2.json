@@ -9468,5 +9468,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero886-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134619",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero887-portrait.png/revision/latest/scale-to-width-down/150?cb=20240430024127",
     "sort": "6"
+  },
+  "Masha-w3c9vz6rwn": {
+    "key": "Masha-w3c9vz6rwn",
+    "hero": "Masha",
+    "skin_name": "Star",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/masha%20star%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero883-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170110",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero887-portrait.png/revision/latest/scale-to-width-down/150?cb=20240430024127",
+    "sort": "3"
   }
 }
