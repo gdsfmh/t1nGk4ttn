@@ -9648,5 +9648,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero452-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165229",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/argus%20x%20hidan2.jpg",
     "sort": "2"
+  },
+  "Argus-579dq6nla9": {
+    "key": "Argus-579dq6nla9",
+    "hero": "Argus",
+    "skin_name": "Basic",
+    "skin_name2": "Aspirants",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/argus%20basic%20x%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero452-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165229",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/argus%20x%20aspirants.png",
+    "sort": "2"
   }
 }
