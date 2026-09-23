@@ -9638,5 +9638,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero774-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125824",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604050333",
     "sort": "4"
+  },
+  "Argus-ylxl3au2j0": {
+    "key": "Argus-ylxl3au2j0",
+    "hero": "Argus",
+    "skin_name": "Basic",
+    "skin_name2": "Hidan",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/argus%20basic%20x%20hidan2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero452-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165229",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/argus%20x%20hidan2.jpg",
+    "sort": "2"
   }
 }
