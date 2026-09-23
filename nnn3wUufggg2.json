@@ -9578,5 +9578,15 @@
     "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/clint%20soul%20vessel.jpg",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
     "sort": "13"
+  },
+  "Badang-pxdl7uj9bh": {
+    "key": "Badang-pxdl7uj9bh",
+    "hero": "Badang",
+    "skin_name": "Mpl",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/badang%20mpl%20to%20collector.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/badang%20mpl.jpg",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604050333",
+    "sort": "9"
   }
 }
