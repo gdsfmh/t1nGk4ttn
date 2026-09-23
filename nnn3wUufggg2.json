@@ -9598,5 +9598,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero777-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122044",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604050333",
     "sort": "7"
+  },
+  "Badang-w4tdsa9ehd": {
+    "key": "Badang-w4tdsa9ehd",
+    "hero": "Badang",
+    "skin_name": "Saint Seiya",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/badang%20saint%20seiya2%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero778-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122047",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604050333",
+    "sort": "8"
   }
 }
