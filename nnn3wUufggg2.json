@@ -9618,5 +9618,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero773-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165819",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604050333",
     "sort": "3"
+  },
+  "Badang-3zxrsevjph": {
+    "key": "Badang-3zxrsevjph",
+    "hero": "Badang",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/badang%20special2%20to%20collector.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/badang%20special2.jpg",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604050333",
+    "sort": "5"
   }
 }
