@@ -9788,5 +9788,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero646-portrait.png/revision/latest/scale-to-width-down/150?cb=20241201052815",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero645-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603012918",
     "sort": "6"
+  },
+  "Aldous-oy7xkyrr27": {
+    "key": "Aldous-oy7xkyrr27",
+    "hero": "Aldous",
+    "skin_name": "Mistbenders",
+    "skin_name2": "M1",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/aldous%20mistbenders%20to%20m1.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero645-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603012918",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero645-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603012918",
+    "sort": "9"
   }
 }
