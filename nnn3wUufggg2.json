@@ -9748,5 +9748,15 @@
     "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/aldous%20special.jpg",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero648-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165625",
     "sort": "10"
+  },
+  "Aldous-1dfycxwai0": {
+    "key": "Aldous-1dfycxwai0",
+    "hero": "Aldous",
+    "skin_name": "Special",
+    "skin_name2": "Mistbenders",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/aldous%20special%20to%20mistbenders.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/aldous%20special.jpg",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero649-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114131253",
+    "sort": "10"
   }
 }
