@@ -9668,5 +9668,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1005-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170323",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1008-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125011",
     "sort": "5"
+  },
+  "Brody-a8k7rhmkyb": {
+    "key": "Brody-a8k7rhmkyb",
+    "hero": "Brody",
+    "skin_name": "Mpl",
+    "skin_name2": "Neobeast",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/brody%20mpl%20to%20neobeast.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero1006-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035442",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1008-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125011",
+    "sort": "6"
   }
 }
