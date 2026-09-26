@@ -9678,5 +9678,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero1006-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035442",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1008-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125011",
     "sort": "6"
+  },
+  "Brody-os118u8swy": {
+    "key": "Brody-os118u8swy",
+    "hero": "Brody",
+    "skin_name": "Basic",
+    "skin_name2": "Neobeast",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/brody%20basic%20to%20neobeast.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Hero1002-portrait.png/revision/latest/scale-to-width-down/150?cb=20260917003346",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1008-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125011",
+    "sort": "2"
   }
 }
