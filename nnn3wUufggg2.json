@@ -9698,5 +9698,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1003-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170320",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1008-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125011",
     "sort": "8"
+  },
+  "Brody-gerni69igp": {
+    "key": "Brody-gerni69igp",
+    "hero": "Brody",
+    "skin_name": "Champion",
+    "skin_name2": "Neobeast",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/brody%20champion%20to%20neobeast.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero1007-portrait.png/revision/latest/scale-to-width-down/150?cb=20240920010119",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1008-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125011",
+    "sort": "7"
   }
 }
