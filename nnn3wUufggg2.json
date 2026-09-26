@@ -9728,5 +9728,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero102110-portrait.png/revision/latest/scale-to-width-down/150?cb=20240520070715",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest/scale-to-width-down/150?cb=20260916113108",
     "sort": "10"
+  },
+  "Aldous-msjouio1zp": {
+    "key": "Aldous-msjouio1zp",
+    "hero": "Aldous",
+    "skin_name": "Special",
+    "skin_name2": "M1",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/aldous%20special%20to%20m1.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/aldous%20special.jpg",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero645-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603012918",
+    "sort": "10"
   }
 }
