@@ -9818,5 +9818,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero1085-portrait.png/revision/latest/scale-to-width-down/150?cb=20260619033859",
     "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/aulus%20star.png",
     "sort": "5"
+  },
+  "Aulus-jp0a99tcwp": {
+    "key": "Aulus-jp0a99tcwp",
+    "hero": "Aulus",
+    "skin_name": "Special",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/aulus%20special%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1084-portrait.png/revision/latest/scale-to-width-down/150?cb=20260619033831",
+    "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/aulus%20star.png",
+    "sort": "4"
   }
 }
