@@ -9848,5 +9848,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero023-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164302",
     "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/balmond%20collector2.png",
     "sort": "3"
+  },
+  "Balmond-mtuetz7t4p": {
+    "key": "Balmond-mtuetz7t4p",
+    "hero": "Balmond",
+    "skin_name": "Epic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/balmond%20epic%20to%20collector%20t.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero028-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125721",
+    "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/balmond%20collector2.png",
+    "sort": "8"
   }
 }
