@@ -9878,5 +9878,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Hero962-portrait.png/revision/latest/scale-to-width-down/150?cb=20260919023008",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero966-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180005",
     "sort": "2"
+  },
+  "Luo-Yi-0hvssdpeqy": {
+    "key": "Luo-Yi-0hvssdpeqy",
+    "hero": "Luo Yi",
+    "skin_name": "Create",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/luo%20yi%20create%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero968-portrait.png/revision/latest/scale-to-width-down/150?cb=20250619142204",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero966-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180005",
+    "sort": "8"
   }
 }
