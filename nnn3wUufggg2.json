@@ -9808,5 +9808,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest/scale-to-width-down/150?cb=20260619034714",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero645-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603012918",
     "sort": "7"
+  },
+  "Aulus-0s9jdtqzu0": {
+    "key": "Aulus-0s9jdtqzu0",
+    "hero": "Aulus",
+    "skin_name": "Season",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d2/main/aulus%20season%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero1085-portrait.png/revision/latest/scale-to-width-down/150?cb=20260619033859",
+    "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/aulus%20star.png",
+    "sort": "5"
   }
 }
